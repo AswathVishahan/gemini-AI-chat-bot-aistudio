@@ -1,0 +1,7 @@
+{
+  "name": "Chat Bot",
+  "description": "An AI chatbot that answers questions based on uploaded documents and natural conversation. It supports both text and voice-based interaction with voice responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
